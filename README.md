@@ -9,9 +9,9 @@ Last updated: July 09, 2023
 This privacy notice for LynBee´s ('we','us','our'), describes how and why we might collect, store, use, and/or share)'process') your information when you use our services, such as when you:
 - Download and use our mobile application (LynBee´s Apiary Assistant), or any other application of ours that links to the privacy notice.
 - Engage with us in other related ways, including any sales, marketing, or events.
-- 
+  
 Questions or concerns? 
-Reading this privacy notice will help you understand your privacy rights and choices. If you do not agree with our policies and practices, please do not use our Services. If you still have any questions, concerns, please contact us at Lynda.p.Douglas@gmail.com
+Reading this privacy notice will help you understand your privacy rights and choices. If you do not agree with our policies and practices, please do not use our Services. If you still have any questions, concerns, please contact us at Lyn.Bees.14s@gmail.com
 
 SUMMARY OF KEY POINTS
 
