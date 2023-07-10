@@ -1,6 +1,7 @@
 # LynBee´s Apiary Assistant
 
 Apiary Record Keeping Application
+
 This app was designed to receive and store data in a SQL database on your mobile phone and export a summary of  all sales, expenses, harvest records and hive inspections.
 
 PRIVACY POLICY
