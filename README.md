@@ -1,10 +1,10 @@
 # LynBee´s Apiary Assistant
 
-Apiary Record Keeping Application
+#Apiary Record Keeping Application
 
 This app was designed to receive and store data in a SQL database on your mobile phone and export a summary of  all sales, expenses, harvest records and hive inspections.
 
-PRIVACY POLICY
+#PRIVACY POLICY
 Last updated: July 09, 2023
 
 This privacy notice for LynBee´s ('we','us','our'), describes how and why we might collect, store, use, and/or share)'process') your information when you use our services, such as when you:
@@ -14,7 +14,7 @@ This privacy notice for LynBee´s ('we','us','our'), describes how and why we mi
 Questions or concerns? 
 Reading this privacy notice will help you understand your privacy rights and choices. If you do not agree with our policies and practices, please do not use our Services. If you still have any questions, concerns, please contact us at Lyn.Bees.14@gmail.com
 
-SUMMARY OF KEY POINTS
+#SUMMARY OF KEY POINTS
 
 The following summary provides key points from our privacy notice:
 - What personal information de we process? When you visit, use, or navigate our services, we may process personal information depending on how you interact with us and services, the choices you make, and the products and features you use.
