@@ -5,7 +5,7 @@
 This app was designed to receive and store data in a SQL database on your mobile phone and export a summary of  all sales, expenses, harvest records and hive inspections.
 
 #PRIVACY POLICY
-Last updated: July 18, 2025
+Last updated: March 18, 2025
 
 This privacy notice for LynBee´s ('we','us','our'), describes how and why we might collect, store, use, and/or share)'process') your information when you use our services, such as when you:
 - Download and use our mobile application (LynBee´s Apiary Assistant), or any other application of ours that links to the privacy notice.
